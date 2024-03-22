@@ -1,5 +1,5 @@
 
-# **Feature Name: Derm Finder Tool**
+# **Feature Name: Derm-Finder Tool**
 
 A detailed test analysis of the Derm Finder tool, focusing on its key features and functionalities. As a **software tester**, my role was to ensure the usability, quality, reliability, and performance of the tool through rigorous testing methodologies.
 
