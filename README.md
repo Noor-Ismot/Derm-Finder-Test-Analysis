@@ -16,10 +16,12 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 
 
 
+                                                    DermFinder Tool Short Demo
 
 
 
-                                                            DermFinder Tool Short Demo
+![DermFinder Tool Short Demo](DermFinderDemo.gif)
+
 
 
 ### **1. User Interface and User Experience (UI/UX):**
@@ -31,6 +33,7 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 * Identified areas for improvement to enhance the overall user experience.
 
 
+
 ### **2. API Testing:**
 
 
@@ -39,6 +42,7 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 *  Conducted thorough testing of API endpoints to ensure proper data retrieval and handling of requests.
 * Validated the functionality and performance of API interactions to guarantee seamless integration with the Derm Finder tool.
 *  Collaborated with the development team to address any API-related issues and ensure smooth communication between the frontend and backend systems.
+
 
 
 ### **3. Search Functionality:**
@@ -53,6 +57,7 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 
 
 
+
 ### **5. Data Integrity and Database Management:**
 
 
@@ -60,6 +65,7 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 * Verified the integrity and completeness of the database powering the Derm Finder tool.
 * Conducted data validation checks to ensure accuracy and consistency of information stored within the database, including hospital names, addresses, and services provided.
 * Collaborated with database administrators and developers to address any data quality issues and ensure optimal database performance through regular maintenance and monitoring.
+
 
 
 ### **6. Accessibility:**
@@ -71,6 +77,7 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 
 
 
+
 ### **7. Security:**
 
 
@@ -78,26 +85,20 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 * Assessed vulnerability assessments received from the security test team and ensured they were resolved.
 
 
-### **8. Mobile Responsiveness:**
+
+### **8. Responsiveness:**
 
 
 
-* Tested the tool's responsiveness and functionality on mobile devices, ensuring compatibility with various screen sizes and resolutions.
+* Tested the tool's responsiveness and functionality on mobile /tablet devices, ensuring compatibility with various screen sizes and resolutions.
 * Verified that users could access and use the tool conveniently from smartphones and tablets.
 * Identified and addressed any mobile-specific issues to enhance the mobile user experience.
 
-                    
 
+![DermFinder Tool Mobile View](dermfinder-Ipad.png)
+![DermFinder Tool Mobile View](mobileView-dermfinder.png) 
 
-                                               Mobile View
-
-
- 
-
-
-
-                                                                            iPad View
-
+                         
 
 ### **9. Localization:**
 
@@ -106,6 +107,7 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 * Conducted localization testing to ensure the tool's compatibility with different languages, cultures, and regulatory requirements.
 * Verified the accuracy and cultural appropriateness of translated content and user interface elements.
 * Provided feedback on localization issues and recommended adjustments for improved global usability.
+
 
 
 ### **10. Collaboration and Communication:**
@@ -117,12 +119,14 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 * Provided regular updates on testing progress, identified issues, and proposed solutions to ensure alignment with project goals and objectives.
 
 
+
 ### **11. Continuous Improvement:**
 
 
 
 * Actively participated in retrospectives and post-release reviews to identify areas for improvement in the testing process and tool functionality.
 * Incorporated lessons learned from previous testing cycles to enhance future testing efforts and optimize the Derm Finder tool's performance and usability.
+
 
 
 ### **Challenges Faced:**
@@ -133,6 +137,7 @@ Throughout the testing process of the Derm Finder tool, several challenges were 
 
 * **Data Consistency:** Ensuring consistency and accuracy of data across different database entries posed a significant challenge. Inconsistencies in data formatting and duplication of entries complicated the testing process.
 * **Security Vulnerabilities:** Identifying and mitigating security vulnerabilities within the tool's infrastructure was another challenge. The complexity of the technology stack and integration points required thorough security testing to ensure data privacy and integrity.
+
 
 
 ### **Solutions:**
@@ -146,4 +151,5 @@ To overcome these challenges, the following solutions were implemented:
 
 In conclusion, the rigorous testing of the Derm Finder tool has confirmed its usability, reliability, and effectiveness in providing psoriasis treatment information. Through collaborative efforts and continuous improvement, I've ensured that the tool delivers a seamless user experience, empowering individuals to make informed treatment decisions. My test efforts have contributed to the success of the Derm Finder tool, making it a valuable resource in the healthcare landscape.
 
-                                                   Copyright © Noor Ismot Ara- All rights reserved 
+                                                   
+                                              Copyright © Noor Ismot Ara- All rights reserved 
