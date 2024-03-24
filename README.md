@@ -20,7 +20,8 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 
 
 
-![DermFinder Tool Short Demo](DermFinderShortDemo.gif)
+![DermFinder Tool Short Demo](DermFinderShortDemo.gif) <br> <br>
+
 
 
 
@@ -30,9 +31,11 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 
 * Conducted usability testing to evaluate the clarity and intuitiveness of the tool's user interface.
 * Verified that users could easily input their location, adjust search filters, and navigate through the tool without confusion.
-* Identified areas for improvement to enhance the overall user experience.
+* Identified areas for improvement to enhance the overall user experience. <br><br>
 
+**Mind Map URL:** [Mind Map of Derm finder tool](https://miro.com/app/board/uXjVNuGtFCI=/) <br>
 
+![DermFinder Tool MindMap](Derm-FinderMindMap.png) <br><br>
 
 ### **2. API Testing:**
 
@@ -75,7 +78,8 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 * Conducted accessibility testing to ensure the tool's compliance with accessibility standards.
 * Verified compatibility with screen readers, keyboard navigation, and other assistive technologies with the **Siteimprove** **Accessibility Checker **chrome extension tool.
 
-
+<br><br>
+![DermFinder Tool Accessibility Testing](Dermfinder-Accessibility.png) <br><br>
 
 
 ### **7. Security:**
