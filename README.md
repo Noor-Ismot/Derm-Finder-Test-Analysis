@@ -20,7 +20,7 @@ A detailed test analysis of the Derm Finder tool, focusing on its key features a
 
 
 
-![DermFinder Tool Short Demo](DermFinderDemo.gif)
+![DermFinder Tool Short Demo](DermFinderShortDemo.gif)
 
 
 
